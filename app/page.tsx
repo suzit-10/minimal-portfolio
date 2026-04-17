@@ -5,7 +5,7 @@ export default function Home() {
 
         {`$ cat /dev/Sujit
 
-/dev/your-name
+/dev/Sujit
 
 status: available
 role: frontend engineer (4+ years)
@@ -15,7 +15,7 @@ capabilities:
   - node.js
   - typescript
   - geospatial development
-  - system design (frontend)
+  - system designs
   - api integration
   - performance optimization
 
