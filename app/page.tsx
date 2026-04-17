@@ -1,9 +1,9 @@
 export default function Home() {
   return (
     <main className="min-h-screen bg-black text-green-400 font-mono flex items-center px-6">
-      <div className="max-w-2xl w-full text-sm leading-relaxed whitespace-pre-wrap">
+      <div className="max-w-2xl w-full text-sm leading-relaxed whitespace-pre-wrap cursor">
 
-{`$ cat /dev/Sujit
+        {`$ cat /dev/Sujit
 
 /dev/your-name
 
